@@ -8,7 +8,6 @@ function App() {
   const [bookmarks, setBookMarks] = useState([]);
   const [readingTime, setReadingTime] =  useState(0)
 
-
   const handleAddToBookMark = blog => {
     const newBookmark = [...bookmarks, blog];
     setBookMarks(newBookmark);
