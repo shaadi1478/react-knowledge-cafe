@@ -4,19 +4,19 @@
       "cover": "https://i.ibb.co/pK35ghK/825.jpg",
       "title": "The Mystery of the Hidden Treasure",
       "author": "Amanda Smith",
-      "author_img": "https://example.com/authors/amanda_smith.jpg",
+      "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-15",
-      "reading_time": 10,
+      "reading_time": "10 min",
       "hashtags": ["mystery", "adventure", "treasure"]
     },
     {
       "id": 2,
-      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "cover": "https://i.ibb.co/fN1Wk8c/819.jpg",
       "title": "Exploring the Unknown Depths",
       "author": "John Doe",
-      "author_img": "https://example.com/authors/john_doe.jpg",
+      "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-16",
-      "reading_time": 8,
+      "reading_time": " 8 min",
       "hashtags": ["exploration", "ocean", "adventure"]
     },
     {
@@ -24,19 +24,19 @@
       "cover": "https://i.ibb.co/pK35ghK/825.jpg",
       "title": "The Enchanted Forest",
       "author": "Emily White",
-      "author_img": "https://example.com/authors/emily_white.jpg",
+      "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-14",
-      "reading_time": 12,
+      "reading_time": "12 min",
       "hashtags": ["fantasy", "nature", "magic"]
     },
     {
       "id": 4,
-      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "cover": "https://i.ibb.co/fN1Wk8c/819.jpg",
       "title": "Journey to the Stars",
       "author": "David Brown",
-      "author_img": "https://example.com/authors/david_brown.jpg",
+      "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-13",
-      "reading_time": 15,
+      "reading_time": "15 min",
       "hashtags": ["space", "exploration", "science"]
     },
     {
@@ -44,9 +44,9 @@
       "cover": "https://i.ibb.co/pK35ghK/825.jpg",
       "title": "The Secret Garden",
       "author": "Sophia Green",
-      "author_img": "https://example.com/authors/sophia_green.jpg",
+      "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-12",
-      "reading_time": 9,
+      "reading_time": "9 min",
       "hashtags": ["nature", "gardening", "serenity"]
     }
   ]
