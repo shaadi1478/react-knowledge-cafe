@@ -6,7 +6,7 @@
       "author": "Amanda Smith",
       "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-15",
-      "reading_time": "10 min",
+      "reading_time": 10,
       "hashtags": ["mystery", "adventure", "treasure"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "John Doe",
       "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-16",
-      "reading_time": " 8 min",
+      "reading_time": 8,
       "hashtags": ["exploration", "ocean", "adventure"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Emily White",
       "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-14",
-      "reading_time": "12 min",
+      "reading_time": 12,
       "hashtags": ["fantasy", "nature", "magic"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "David Brown",
       "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-13",
-      "reading_time": "15 min",
+      "reading_time": 15,
       "hashtags": ["space", "exploration", "science"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Sophia Green",
       "author_img": "https://i.ibb.co/X5yZjgH/sss-2.jpg",
       "posted_date": "2024-03-12",
-      "reading_time": "9 min",
+      "reading_time": 9,
       "hashtags": ["nature", "gardening", "serenity"]
     }
   ]
