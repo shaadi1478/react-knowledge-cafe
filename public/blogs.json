@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "title": "The Mystery of the Hidden Treasure",
+      "author": "Amanda Smith",
+      "author_img": "https://example.com/authors/amanda_smith.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["mystery", "adventure", "treasure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "title": "Exploring the Unknown Depths",
+      "author": "John Doe",
+      "author_img": "https://example.com/authors/john_doe.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 8,
+      "hashtags": ["exploration", "ocean", "adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Emily White",
+      "author_img": "https://example.com/authors/emily_white.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 12,
+      "hashtags": ["fantasy", "nature", "magic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "title": "Journey to the Stars",
+      "author": "David Brown",
+      "author_img": "https://example.com/authors/david_brown.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["space", "exploration", "science"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/pK35ghK/825.jpg",
+      "title": "The Secret Garden",
+      "author": "Sophia Green",
+      "author_img": "https://example.com/authors/sophia_green.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 9,
+      "hashtags": ["nature", "gardening", "serenity"]
+    }
+  ]
+  
